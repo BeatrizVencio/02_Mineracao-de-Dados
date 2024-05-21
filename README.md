@@ -13,3 +13,6 @@ Algumas das principais tarefas de mineração de dados incluem:
 - **Previsão de séries temporais**: é a tarefa de prever valores futuros com base em padrões e tendências identificados nos dados históricos.
 
 Em resumo, as "tarefas" de Mineração de Dados realizam a fase de descoberta de conhecimento em Bases de Dados, em inglês, KDD - Knowledge Discovery in Databases. O KDD é formado por diversas etapas para transformar os dados brutos em informações relevantes (conhecimento útil).
+
+> [!NOTE]
+> Estarei deixando os notebooks de algumas aulas minhas na pasta!
